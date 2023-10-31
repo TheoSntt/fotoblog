@@ -5,7 +5,7 @@
 
 Ce site correspond à ma deuxième utilisation de Django. Le projet n'est pas entièrement abouti, et m'a servi d'exemple pour suivre le cours Django Avancé d'OpenClassrooms, et mettre en application ce qui y était enseigné.  
 Les fonctionnalités du site ont permis d'expérimenter avec des concepts plus poussés de Django.  
-Pour un projet plus abouti réalisé avec Django, consultez plutôt <>.  
+Pour un projet plus abouti réalisé avec Django, consultez plutôt [LitReview](https://github.com/TheoSntt/litreview).  
 
 ## Mise en place et exécution en local de l'application
 
